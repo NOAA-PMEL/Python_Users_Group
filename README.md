@@ -1,4 +1,4 @@
-# Python_Users_Group
+# Python_Users_Group (PMEL PyUG)
 Collection of documents and notes for PMEL Python Users Group
 
 ## Meeting Dates
